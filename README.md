@@ -39,8 +39,8 @@ I strive to write robust code that works right out of the box. Before you compla
 - [x] The mods are visible in the mod selection screen. If this isn't the case, then you didn't follow the installation steps properly.
 - [x] There is an error message when opening one of my mods that specifies a line where the error resides.
 
-If all these conditions are met, then your next course of action is to [create an Issue here on GitHub.](https://github.com/TheCreator69/UnitaleCrashCourseMods/issues/new) \
-If you don't know how to do that, then check [this link](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues) \
-I will do my best to fix the problem ASAP if it is my fault and I can fix it. \
+If all these conditions are met, then your next course of action is to [create an Issue here on GitHub](https://github.com/TheCreator69/UnitaleCrashCourseMods/issues/new). \
+If you don't know how to do that, then check [this link](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues). \
+I will do my best to fix the problem ASAP if it is my fault and I can fix it.
 
 Thank you for reading and have fun! :smile:
