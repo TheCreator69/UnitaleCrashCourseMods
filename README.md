@@ -5,7 +5,7 @@ All mods created in the series will be uploaded here for easy viewing & download
 ## Short Overview
 Each part of the crash course deals with a different subject. This table serves as a reminder which part dealt with which problem:
 
-Mod | Description
+Part / Mod Folder | Description
 ----|------------
 Tutorial 1 | Basics of Unitale modding
 Tutorial 2 | ACT commands
@@ -25,7 +25,7 @@ Tutorial 12 (coming soon) | How to write a complex feature yourself
 Downloading the mods for yourself is super easy!\
 There are multiple ways to download code from GitHub, so I will describe the most straight-forward method here:
 
-1. Click on the`Code` button in the top right
+1. Click on the `Code` button in the top right
 2. Select `Download .zip`
 3. Once the .zip file has been downloaded, unzip it with a program of your choosing. Popular options for this are [7-Zip](https://www.7-zip.org/) and [WinRAR](https://www.win-rar.com/download.html)
 4. The unzipped folders each represent a mod. Put them all in the "Mods" folder of your Unitale installation
@@ -41,6 +41,6 @@ I strive to write robust code that works right out of the box. Before you compla
 
 If all these conditions are met, then your next course of action is to [create an Issue here on GitHub.](https://github.com/TheCreator69/UnitaleCrashCourseMods/issues/new) \
 If you don't know how to do that, then check [this link](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues) \
-I will do my best to fix the problem ASAP if it is my fault and I can fix it.\
+I will do my best to fix the problem ASAP if it is my fault and I can fix it. \
 
 Thank you for reading and have fun! :smile:
