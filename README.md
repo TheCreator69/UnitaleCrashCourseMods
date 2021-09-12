@@ -15,7 +15,7 @@ Tutorial 5 | Wave creation, part 2 (moving multiple bullets)
 Tutorial 6 | Wave creation, final part (more advanced attacks)
 Tutorial 6.2 | Recreating Flowey's attack
 Tutorial 7 | Animation basics
-Tutorial 8 (coming soon) | Music and sound basics
+Tutorial 8 | Music and sound basics
 Tutorial 9 (coming soon) | Fixing common errors
 Tutorial 10 (coming soon) | Text effects
 Tutorial 11 (coming soon) | The Script object
