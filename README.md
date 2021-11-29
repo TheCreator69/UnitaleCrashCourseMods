@@ -17,9 +17,7 @@ Tutorial 6.2 | Recreating Flowey's attack
 Tutorial 7 | Animation basics
 Tutorial 8 | Music and sound basics
 Tutorial 9 (coming soon) | Fixing common errors
-Tutorial 10 (coming soon) | Text effects
-Tutorial 11 (coming soon) | The Script object
-Tutorial 12 (coming soon) | How to write a complex feature yourself
+Tutorial 10 (coming soon) | How to continue forward
 
 ## How to Download
 Downloading the mods for yourself is super easy!\
