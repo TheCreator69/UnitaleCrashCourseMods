@@ -16,8 +16,8 @@ Tutorial 6 | Wave creation, final part (more advanced attacks)
 Tutorial 6.2 | Recreating Flowey's attack
 Tutorial 7 | Animation basics
 Tutorial 8 | Music and sound basics
-Tutorial 9 (coming soon) | Fixing common errors
-Tutorial 10 (coming soon) | How to continue forward
+Tutorial 9 | Fixing common errors
+Tutorial 10 | How to continue forward
 
 ## How to Download
 Downloading the mods for yourself is super easy!\
